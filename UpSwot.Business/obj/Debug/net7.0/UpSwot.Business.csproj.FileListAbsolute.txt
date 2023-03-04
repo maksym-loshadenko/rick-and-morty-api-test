@@ -1,0 +1,15 @@
+E:\Projects\UpSwot\UpSwot.Business\bin\Debug\net7.0\UpSwot.Business.deps.json
+E:\Projects\UpSwot\UpSwot.Business\bin\Debug\net7.0\UpSwot.Business.dll
+E:\Projects\UpSwot\UpSwot.Business\bin\Debug\net7.0\UpSwot.Business.pdb
+E:\Projects\UpSwot\UpSwot.Business\obj\Debug\net7.0\UpSwot.Business.csproj.AssemblyReference.cache
+E:\Projects\UpSwot\UpSwot.Business\obj\Debug\net7.0\UpSwot.Business.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\UpSwot\UpSwot.Business\obj\Debug\net7.0\UpSwot.Business.AssemblyInfoInputs.cache
+E:\Projects\UpSwot\UpSwot.Business\obj\Debug\net7.0\UpSwot.Business.AssemblyInfo.cs
+E:\Projects\UpSwot\UpSwot.Business\obj\Debug\net7.0\UpSwot.Business.csproj.CoreCompileInputs.cache
+E:\Projects\UpSwot\UpSwot.Business\obj\Debug\net7.0\UpSwot.Business.dll
+E:\Projects\UpSwot\UpSwot.Business\obj\Debug\net7.0\refint\UpSwot.Business.dll
+E:\Projects\UpSwot\UpSwot.Business\obj\Debug\net7.0\UpSwot.Business.pdb
+E:\Projects\UpSwot\UpSwot.Business\obj\Debug\net7.0\ref\UpSwot.Business.dll
+E:\Projects\UpSwot\UpSwot.Business\bin\Debug\net7.0\UpSwot.Data.dll
+E:\Projects\UpSwot\UpSwot.Business\bin\Debug\net7.0\UpSwot.Data.pdb
+E:\Projects\UpSwot\UpSwot.Business\obj\Debug\net7.0\UpSwot.Business.csproj.CopyComplete

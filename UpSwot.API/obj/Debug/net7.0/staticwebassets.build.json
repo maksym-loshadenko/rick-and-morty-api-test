@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3atXVzvfmpsCFNWR+5/iRS+wQm7IlG2R5vUWDxB9fAQ=",
+  "Source": "UpSwot.API",
+  "BasePath": "_content/UpSwot.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

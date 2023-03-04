@@ -1,0 +1,12 @@
+E:\Projects\UpSwot\UpSwot.Constants\obj\Debug\net7.0\UpSwot.Constants.csproj.AssemblyReference.cache
+E:\Projects\UpSwot\UpSwot.Constants\obj\Debug\net7.0\UpSwot.Constants.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\UpSwot\UpSwot.Constants\obj\Debug\net7.0\UpSwot.Constants.AssemblyInfoInputs.cache
+E:\Projects\UpSwot\UpSwot.Constants\obj\Debug\net7.0\UpSwot.Constants.AssemblyInfo.cs
+E:\Projects\UpSwot\UpSwot.Constants\obj\Debug\net7.0\UpSwot.Constants.csproj.CoreCompileInputs.cache
+E:\Projects\UpSwot\UpSwot.Constants\bin\Debug\net7.0\UpSwot.Constants.deps.json
+E:\Projects\UpSwot\UpSwot.Constants\bin\Debug\net7.0\UpSwot.Constants.dll
+E:\Projects\UpSwot\UpSwot.Constants\bin\Debug\net7.0\UpSwot.Constants.pdb
+E:\Projects\UpSwot\UpSwot.Constants\obj\Debug\net7.0\UpSwot.Constants.dll
+E:\Projects\UpSwot\UpSwot.Constants\obj\Debug\net7.0\refint\UpSwot.Constants.dll
+E:\Projects\UpSwot\UpSwot.Constants\obj\Debug\net7.0\UpSwot.Constants.pdb
+E:\Projects\UpSwot\UpSwot.Constants\obj\Debug\net7.0\ref\UpSwot.Constants.dll
